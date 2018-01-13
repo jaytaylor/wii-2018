@@ -1,0 +1,8 @@
+# Vim: Temporary files.
+*~
+
+# Vim: Swap-files.
+*[._]*.sw[opa]
+
+# Automatically generated resources.
+/index.html
